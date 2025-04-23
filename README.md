@@ -1,9 +1,11 @@
 Group Members: Ashlesha Ghule, Anita Majhi
 
 📌 Project Overview
+
 Global Insure, a leading insurance provider, handles thousands of claims every year. A significant portion of these claims are later discovered to be fraudulent, resulting in major financial losses. This project aims to build a predictive machine learning model to classify claims as fraudulent or legitimate, enabling early detection and proactive fraud prevention.
 
 🧾 Problem Statement
+
 Currently, Global Insure relies on manual inspections to detect fraudulent claims. This method is time-consuming, inefficient, and often identifies fraud only after the company has made payments. There is a need for a data-driven solution to identify high-risk claims early in the approval process.
 
 🎯 Business Objective
